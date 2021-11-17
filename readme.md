@@ -1,19 +1,25 @@
 ## Hi there 👋
 
-I'm a Undergraduate Computer Science student at Lahore University of Management Sciences, Pakistan.
+I'm a undergraduate Computer Science student at Lahore University of Management Sciences , Paksitan.
 <!-- 
-💻 Passionate about Machine learning, web dev and networking.
+💻 Passionate about Machine learning, web development and networking.
+
+ -->
+<!-- 
+ -->
+
 
 ### 👨🏻‍💻 Technologies:
 
-<img src="https://avatars.githubusercontent.com/u/76254826?s=400&u=1c87942fb0cead30314f87eebfcf8537f12f2dc7&v=4" alt="Technologies" width="400">
+<img src="https://raw.githubusercontent.com/MNoumanAbbasi/MNoumanAbbasi/master/assets/techs.png" alt="Technologies" width="400">
 
-⚡ When I am away from screen, I try to spend my time swimming or eating.
+⚡ When I am away from the screen, I spend my time swimming or playing chess.
 
 ### Get in touch!
 
 📧 Email: [jawadazharch@gmail.com](mailto:thenoumanabbasi@gmail.com)  
 
+<!--
 
 Here are some ideas to get you started:
 

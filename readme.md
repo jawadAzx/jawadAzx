@@ -11,7 +11,7 @@ I'm a undergraduate Computer Science student at Lahore University of Management 
 
 ### 👨🏻‍💻 Technologies:
 
-<img src=" alt="Technologies" width="400">
+<img src="https://drive.google.com/file/d/1BiuIQhDHdF6GU-ga2VnfYjso9G2nrGLB/view?usp=sharing" alt="Technologies" width="400">
 
 ⚡ When I am away from the screen, I spend my time swimming or playing chess.
 

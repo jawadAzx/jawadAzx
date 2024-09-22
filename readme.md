@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a undergraduate Computer Science student at Lahore University of Management Sciences , Paksitan.
+I'm a senior Software Engineer at Laam Technologies Inc.
 <!-- 
 💻 Passionate about Machine learning, web development and networking.
 
